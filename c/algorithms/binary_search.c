@@ -5,7 +5,7 @@ int binary_search(int array[], int size, int target) {
     int end = size - 1;
 
     while (beginning <= end) {
-        int middle = beginning + (end - beginning);
+        int middle = beginning + (end - beginning) / 2;
 
         if (array[middle] == target) {
             return array[middle];
