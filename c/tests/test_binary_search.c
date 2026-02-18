@@ -7,7 +7,7 @@ void test_binary_search_found() {
         1, 2, 3, 4, 5
     };
 
-    int size = sizeof(array) / sizeof(array[0]);
+    size_t size = sizeof(array) / sizeof(array[0]);
 
     int index = binary_search(array, size, 4);
 
@@ -19,7 +19,7 @@ void test_binary_search_not_found() {
         0, 1, 2, 3, 4
     };
 
-    int size = sizeof(array) / sizeof(array[0]);
+    size_t size = sizeof(array) / sizeof(array[0]);
 
     int index = binary_search(array, size, 5);
 
