@@ -36,7 +36,7 @@ This repository is to deepen my problem solving ability, understanding of algori
 ## Current progress
 
 - 📈 Binary search (in C)
-- ✅ Merkle tree
+- ✅ Merkle tree (in Rust 🦀)
 
 ## Languages of use
 
