@@ -1,14 +1,15 @@
-# Future C file
-*binary_search.c
+# Future C files Folder/Files
 *Makefile
 
-# Rust folders
-*target
-
-# Future rust files
+# Future Rust Folder/Files
 *binary_search.rs
 rust/tests/algorithms
 rust/src/tests/algorithms
 
 # Think files
 *scratch*
+*notes*
+
+# Binary files 
+build/
+*target
