@@ -35,7 +35,12 @@ This repository is to deepen my problem solving ability, understanding of algori
 
 ## Current progress
 
-- 📈 Binary search (in C)
+#### Algorithms
+
+- ✅ Binary search (in C)
+
+#### Data-structures
+
 - ✅ Merkle tree (in Rust 🦀)
 
 ## Languages of use
