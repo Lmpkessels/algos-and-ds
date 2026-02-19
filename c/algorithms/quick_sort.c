@@ -1,34 +1,44 @@
 #include <stdio.h>
 
+// Holds the value of 'a' temporary such that 'a' can be overwritten with
+// 'b' and then 'b' can get the temporary hold value.
 void swap_indices(int* a, int* b) {
     int temporary = *a;
     *a = *b;
     *b = temporary;
 }
 
+// Put the pivot in its final sorted position.
 int partition(int arr[], int low, int high) {
     int pivot = arr[low];
     int i = low;
     int j = high;
 
     while (i < j) {
+        // Stop at first value that is greater than the pivot.
+        // Then increment i.
         while (i <= high - 1 && arr[i] <= pivot) {
             i++;
         }
 
+        // Stop at first value that is less than or equal to the pivot.
+        // Then decrement j. 
         while (j >= low + 1 && arr[j] > pivot) {
             j--;
         }
 
+        // Swap indice values when 'i' is less than 'j'.
         if (i < j) {
             swap_indices(&arr[i], &arr[j]);
         }
     }
 
+    // Get the pivot on position j.
     swap_indices(&arr[low], &arr[j]);
     return j;
 }
 
+// Sort the array.
 void quick_sort(int arr[], int low, int high) {
     if (low < high) {
         int pi = partition(arr, low, high);
@@ -51,4 +61,4 @@ int main(void) {
     }
 
     return 0;
- }
+}
