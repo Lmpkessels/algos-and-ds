@@ -37,6 +37,7 @@ This repository is to deepen my problem solving ability, understanding of algori
 
 #### Algorithms
 
+- 📈 Quick sort (in C)
 - ✅ Binary search (in C)
 
 #### Data-structures
