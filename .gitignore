@@ -13,3 +13,4 @@ rust/src/tests/algorithms
 # Binary files 
 build/
 *target
+*algorithm_statistics.md
