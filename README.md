@@ -33,6 +33,24 @@ This repository is to deepen my problem solving ability, understanding of algori
 - Graph (adjacency list)
 - Merkle tree
 
+## Setup
+
+```bash
+git clone https://github.com/Lmpkessels/algos-and-ds.git
+cd algos-and-ds
+
+# For C
+cd c
+gcc tests/test_name.c directory_name/name.c -o build/test_name
+build/./name
+
+# For Rust
+cd rust
+cargo test
+```
+
+Navigate through folders by topic.
+
 ## Current progress
 
 #### Algorithms
@@ -57,6 +75,10 @@ For major changes, please open an issue first to discuss what you’d like to im
 
 Licensed under [MIT License](./LICENSE-MIT). <br/>
 © 2026 Luuk Kessels
+
+## Status
+
+This is a ongoing project to deepen my understanding in C, Rust, and Algorithms.
 
 ## Connect
 
