@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "../algorithms/binary_search.h"
+#include "../src/binary_search.h"
 
 void test_binary_search_found() {
     int array[5] = {

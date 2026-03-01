@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "../algorithms/quick_sort.h"
+#include "../src/quick_sort.h"
 
 void test_quick_sort_ordering_list_with_repeating_numbers() {
     int array[10] = {
