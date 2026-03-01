@@ -1,16 +1,30 @@
 # Future C files Folder/Files
 *Makefile
+*benchmarks
+*icpc
+*c/crypto
 
 # Future Rust Folder/Files
 *binary_search.rs
 rust/tests/algorithms
 rust/src/tests/algorithms
+*aes
+*hmac
+*sha3
+*algorithms
+*data_structures
+*leet_code
 
 # Think files
 *scratch*
 *notes*
+*benchmarking-and-makefiles
 
 # Binary files 
 build/
 *target
-*algorithm_statistics.md
+*algorithm_cost_model.md
+
+# Files/Folders
+*roadmaps
+rust/crypto/src
