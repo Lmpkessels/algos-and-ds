@@ -8,17 +8,19 @@ This repository will cover multiple algorithms, hash functions, and data-structu
 
 ## Index
 
-| Algorithm     | Language | Status | Tests    |
-| ------------- | -------- | ------ | -------- |
-| SHA1          | Rust     | Done   | Included |
-| SHA256        | Rust     | Done   | Included |
-| SHA512        | Rust     | Done   | Included |
-| SHA3          | Rust     | Done   | Included |
-| MD4           | Rust     | Done   | Included |
-| MD5           | Rust     | Done   | Included |
-| RIPEMD-160    | Rust     | Done   | Included |
-| Binary Search | C        | Done   | Included |
-| Quick Sort    | C        | Done   | Included |
+| Algorithm      | Language | Status | Tests        |
+| -------------- | -------- | ------ | ------------ |
+| SHA1           | Rust     | Done   | Included     |
+| SHA256         | Rust     | Done   | Included     |
+| SHA512         | Rust     | Done   | Included     |
+| SHA3           | Rust     | Done   | Included     |
+| MD4            | Rust     | Done   | Included     |
+| MD5            | Rust     | Done   | Included     |
+| RIPEMD-160     | Rust     | Done   | Included     |
+| Binary Search  | C        | Done   | Included     |
+| Quick Sort     | C        | Done   | Included     |
+| Insertion Sort | Rust     | Done   | Not Included |
+| Merge Sort     | Rust     | Done   | Not Included |
 
 ## Modules
 
