@@ -1,6 +1,5 @@
 # Algos and DS
 
-//TODO: Add under development status, add issues, add benchmarks etc.
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Built with C](https://img.shields.io/badge/Built%20with-C-blue.svg)
 ![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-red.svg)
