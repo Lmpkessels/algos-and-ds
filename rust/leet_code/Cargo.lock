@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "leet_code"
+name = "roman_to_integer"
 version = "0.1.0"
