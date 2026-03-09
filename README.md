@@ -21,7 +21,7 @@ This repository will cover multiple algorithms, hash functions, and data-structu
 | Quick Sort       | C        | Done   | Included     |
 | Insertion Sort   | Rust     | Done   | Not Included |
 | Merge Sort       | Rust     | Done   | Not Included |
-| Roman to integer | Rust     | Done   | Not Included |
+| Roman to integer | Rust     | Done   | Included     |
 
 ## Modules
 
